@@ -63,3 +63,5 @@ framework:master git://github.com/silverstripe/sapphire.git local
 # fullcalendar git@github.com:ajshort/silverstripe-fullcalendar.git 
 
 # groupedcmsmenu git@github.com:ajshort/silverstripe-groupedcmsmenu.git
+
+siteexporter:3.0 git://github.com/rodneyway/silverstripe-siteexporter.git
