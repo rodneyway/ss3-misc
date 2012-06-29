@@ -1,7 +1,5 @@
 /.htaccess
 assets/
-cms/
-framework/
 mysite/*.conf.php
 mysite/BUILD_NUMBER
 mysite/*.log

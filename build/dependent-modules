@@ -20,8 +20,8 @@
 #
 
 sqlite3:master git://github.com/silverstripe-labs/silverstripe-sqlite3.git local
-cms:master git://github.com/silverstripe/silverstripe-cms.git local
-framework:master git://github.com/silverstripe/sapphire.git local
+cms:master git://github.com/silverstripe/silverstripe-cms.git
+framework:master git://github.com/silverstripe/sapphire.git
 
 # securefiles http://svn.polemic.net.nz/silverstripe/modules/SecureFiles/tags/0.30/
 # versionedfiles:master:c3bd2ca1710a8241b99a git://github.com/ajshort/silverstripe-versionedfiles.git
@@ -64,4 +64,4 @@ framework:master git://github.com/silverstripe/sapphire.git local
 
 # groupedcmsmenu git@github.com:ajshort/silverstripe-groupedcmsmenu.git
 
-siteexporter:3.0 git://github.com/rodneyway/silverstripe-siteexporter.git
+siteexporter:3.0 git@github.com:rodneyway/silverstripe-siteexporter.git
